@@ -1,0 +1,388 @@
+brand,model,engine_cc
+BMW,C 400 GT,350
+BMW,CE 02,0
+BMW,CE 04,0
+BMW,F 450 GS,450
+BMW,F 700 GS,798
+BMW,F 750 GS,853
+BMW,F 800 GS,895
+BMW,F 850 GS,853
+BMW,F 850 GS Adventure,853
+BMW,F 900 GS,895
+BMW,F 900 GS Adventure,895
+BMW,F 900 XR,895
+BMW,G 310 GS,313
+BMW,G 310 R,313
+BMW,G 310 RR,312
+BMW,K 1600 B,1649
+BMW,K 1600 GT,1649
+BMW,K 1600 GTL,1649
+BMW,M 1000 R,999
+BMW,M 1000 RR,999
+BMW,M 1000 XR,999
+BMW,R 12,1170
+BMW,R 12 nineT,1170
+BMW,R 1250 GS,1254
+BMW,R 1250 GS Adventure,1254
+BMW,R 1250 R,1254
+BMW,R 1250 RT,1254
+BMW,R 1300 GS,1300
+BMW,R 1300 GS Adventure,1300
+BMW,R 18,1802
+BMW,R 18 Classic,1802
+BMW,S 1000 R,999
+BMW,S 1000 RR,999
+BMW,S 1000 XR,999
+Bajaj,Avenger 150,150
+Bajaj,Avenger 160 Street,160
+Bajaj,Avenger 180,178
+Bajaj,Avenger 200,200
+Bajaj,Avenger 220 Cruise,220
+Bajaj,Avenger 220 Street,220
+Bajaj,CT 100,102
+Bajaj,CT 110,115
+Bajaj,CT 110X,115
+Bajaj,Chetak,0
+Bajaj,Chetak Premium,0
+Bajaj,Discover 100,94
+Bajaj,Discover 100T,102
+Bajaj,Discover 110,115
+Bajaj,Discover 125,125
+Bajaj,Discover 125ST,125
+Bajaj,Discover 150,144
+Bajaj,Dominar 250,248
+Bajaj,Dominar 400,373
+Bajaj,Freedom 125,125
+Bajaj,Freedom 125 NG04,125
+Bajaj,Freedom 125 NG04 Disc LED,125
+Bajaj,Freedom 125 NG04 Drum,125
+Bajaj,Platina 100,102
+Bajaj,Platina 100 ES,102
+Bajaj,Platina 110,115
+Bajaj,Platina 110 ABS,115
+Bajaj,Pulsar 125,125
+Bajaj,Pulsar 125 Neon,125
+Bajaj,Pulsar 150,149
+Bajaj,Pulsar 150 Neon,149
+Bajaj,Pulsar 150 Twin Disc,149
+Bajaj,Pulsar 180,178
+Bajaj,Pulsar 180F,178
+Bajaj,Pulsar 200AS,199
+Bajaj,Pulsar 200NS,199
+Bajaj,Pulsar 220,220
+Bajaj,Pulsar 220F,220
+Bajaj,Pulsar F250,249
+Bajaj,Pulsar N160,164
+Bajaj,Pulsar N250,249
+Bajaj,Pulsar NS125,124
+Bajaj,Pulsar NS160,160
+Bajaj,Pulsar NS200,199
+Bajaj,Pulsar NS400Z,373
+Bajaj,Pulsar RS200,199
+Hero,Achiever,149
+Hero,Destini 125,125
+Hero,Destini Prime,125
+Hero,Duet,110
+Hero,Glamour,124
+Hero,Glamour FI,124
+Hero,Glamour X,125
+Hero,Glamour XTEC,125
+Hero,HF 100,100
+Hero,HF Dawn,97
+Hero,HF Deluxe,97
+Hero,HF Deluxe XTEC,97
+Hero,Hunk,149
+Hero,Hunk 150R,149
+Hero,Hunk 160R,163
+Hero,Ignitor,125
+Hero,Ignitor Disc,125
+Hero,Karizma,223
+Hero,Karizma XMR,210
+Hero,Karizma ZMR,223
+Hero,Maestro,110
+Hero,Maestro Edge,110
+Hero,Maestro Edge 110,110
+Hero,Maestro Edge 125,125
+Hero,Maverick 440,440
+Hero,Optima,0
+Hero,Passion Plus,97
+Hero,Passion Pro,110
+Hero,Passion XPRO,110
+Hero,Passion XTEC,113
+Hero,Pleasure,102
+Hero,Pleasure Plus,110
+Hero,Pleasure Plus XTEC,110
+Hero,Splendor Plus,97
+Hero,Splendor Plus XTEC,97
+Hero,Splendor Pro,97
+Hero,Splendor iSmart,97
+Hero,Super Splendor,124
+Hero,Super Splendor XTEC,125
+Hero,Xoom 110,110
+Hero,Xoom 125,124
+Hero,Xoom 160,156
+Hero,Xpulse 200,199
+Hero,Xpulse 200 4V,199
+Hero,Xpulse 200T,199
+Hero,Xpulse 210,210
+Hero,Xtreme,160
+Hero,Xtreme 160R,163
+Hero,Xtreme 160R 4V,163
+Hero,Xtreme 200R,199
+Hero,Xtreme 200S,199
+Hero,Xtreme 250R,250
+Hero,Xtreme Sports,149
+Honda,Activa 125,124
+Honda,Activa 3G,109
+Honda,Activa 4G,109
+Honda,Activa 5G,109
+Honda,Activa 6G,109
+Honda,Africa Twin,1084
+Honda,Africa Twin Adventure Sports,1084
+Honda,Aviator,109
+Honda,CB1000R,998
+Honda,CB125 Hornet,124
+Honda,CB200X,184
+Honda,CB300F,293
+Honda,CB300R,286
+Honda,CB350,348
+Honda,CB350 H'ness,348
+Honda,CB350 Highness,348
+Honda,CB350C,348
+Honda,CB350C Special Edition,348
+Honda,CB350RS,348
+Honda,CB500F,471
+Honda,CB500X,471
+Honda,CB650R,649
+Honda,CBR1000RR-R,999
+Honda,CBR250R,249
+Honda,CBR650R,649
+Honda,CD 110 Dream,109
+Honda,CD 110 Dream Deluxe,109
+Honda,Dio,109
+Honda,Dio 110,109
+Honda,Dio 125,124
+Honda,Dream Neo,110
+Honda,Dream Yuga,110
+Honda,Gold Wing,1833
+Honda,Gold Wing Tour,1833
+Honda,Grazia,124
+Honda,Hness CB350,348
+Honda,Hornet 2.0,184
+Honda,Livo,109
+Honda,NX200,184
+Honda,NX500,471
+Honda,Navi,110
+Honda,PCX 160,157
+Honda,Rebel 500,471
+Honda,SP 125,124
+Honda,SP125,124
+Honda,SP160,162
+Honda,Shine,123
+Honda,Shine 100,98
+Honda,Shine 100 DX,98
+Honda,Shine 125,123
+Honda,Shine 125 Limited Edition,123
+Honda,Unicorn,162
+Honda,Unicorn 160,162
+KTM,125 Duke,124
+KTM,1290 Super Adventure,1301
+KTM,1290 Super Duke R,1301
+KTM,200 Duke,199
+KTM,250 Adventure,248
+KTM,250 Duke,249
+KTM,250 EXC-F,249
+KTM,250 SX-F,249
+KTM,350 EXC-F,349
+KTM,390 Adventure,373
+KTM,390 Adventure X,373
+KTM,390 Duke,399
+KTM,450 SX-F,449
+KTM,500 EXC-F,510
+KTM,790 Adventure,799
+KTM,790 Duke,799
+KTM,890 Adventure,889
+KTM,890 Duke,889
+KTM,RC 125,124
+KTM,RC 200,199
+KTM,RC 390,373
+Royal Enfield,Bear 650,648
+Royal Enfield,Bullet 350,349
+Royal Enfield,Bullet 500,499
+Royal Enfield,Bullet 650,648
+Royal Enfield,Bullet Electra,346
+Royal Enfield,Classic 350,349
+Royal Enfield,Classic 350 Chrome,349
+Royal Enfield,Classic 350 Halcyon,349
+Royal Enfield,Classic 350 Reborn,349
+Royal Enfield,Classic 350 Redditch,349
+Royal Enfield,Classic 350 Signals,349
+Royal Enfield,Classic 500,499
+Royal Enfield,Classic 500 Chrome,499
+Royal Enfield,Classic 500 Stealth Black,499
+Royal Enfield,Classic 650,648
+Royal Enfield,Continental GT 650,648
+Royal Enfield,Electra 350,346
+Royal Enfield,Electra X,346
+Royal Enfield,Goan Classic 350,349
+Royal Enfield,Guerrilla 450,452
+Royal Enfield,Himalayan,411
+Royal Enfield,Himalayan 411,411
+Royal Enfield,Himalayan 450,452
+Royal Enfield,Hunter 350,349
+Royal Enfield,Interceptor 650,648
+Royal Enfield,Meteor 350,349
+Royal Enfield,Meteor 350 Fireball,349
+Royal Enfield,Meteor 350 Stellar,349
+Royal Enfield,Meteor 350 Supernova,349
+Royal Enfield,Scram 411,411
+Royal Enfield,Scram 440,443
+Royal Enfield,Shotgun 650,648
+Royal Enfield,Super Meteor 650,648
+Royal Enfield,Thunderbird 350,346
+Royal Enfield,Thunderbird 500,499
+Royal Enfield,Thunderbird X 350,346
+Royal Enfield,Thunderbird X 500,499
+Suzuki,Access 125,124
+Suzuki,Access 125 Special Edition,124
+Suzuki,Avenis,124
+Suzuki,Burgman Street,124
+Suzuki,Burgman Street EX,124
+Suzuki,Fiero,147
+Suzuki,GS150R,149
+Suzuki,GSX-S1000,999
+Suzuki,GSX-S750,749
+Suzuki,Gixxer,155
+Suzuki,Gixxer 250,249
+Suzuki,Gixxer SF,155
+Suzuki,Gixxer SF 250,249
+Suzuki,Hayabusa,1340
+Suzuki,Hayate,113
+Suzuki,Hayate EP,113
+Suzuki,Heat,124
+Suzuki,Intruder 150,154
+Suzuki,Intruder 250,248
+Suzuki,Katana,999
+Suzuki,Samurai,100
+Suzuki,Shaolin,140
+Suzuki,Shogun,108
+Suzuki,Slingshot,125
+Suzuki,V-Strom 1050,1037
+Suzuki,V-Strom 650,645
+Suzuki,V-Strom 800DE,776
+Suzuki,V-Strom SX,249
+Suzuki,Zeus,125
+TVS,Apache RR 310,312
+TVS,Apache RTR 160,159
+TVS,Apache RTR 160 4V,159
+TVS,Apache RTR 165 RP,165
+TVS,Apache RTR 180,177
+TVS,Apache RTR 200 4V,197
+TVS,Apache RTR 310,312
+TVS,Apache RTX,299
+TVS,Fiero,150
+TVS,Fiero 125,125
+TVS,Fiero FX,160
+TVS,Jupiter,113
+TVS,Jupiter 110,113
+TVS,Jupiter 125,125
+TVS,Jupiter Classic,110
+TVS,Jupiter ZX,113
+TVS,Max 100,100
+TVS,NTORQ 125,125
+TVS,NTORQ 125 Race Edition,125
+TVS,NTORQ 125 XT,125
+TVS,NTORQ 150,150
+TVS,Radeon,110
+TVS,Raider,125
+TVS,Raider iGO,125
+TVS,Ronin,225
+TVS,Scooty Pep Plus,87
+TVS,Sport,109
+TVS,Sport ES,109
+TVS,Star City,109
+TVS,Star City Plus,110
+TVS,Victor,110
+TVS,Victor GLX,110
+TVS,Wego,110
+TVS,XL100,99
+TVS,XL100 Comfort,99
+TVS,Zest 110,110
+TVS,iQube,0
+Triumph,Bonneville Bobber,1200
+Triumph,Bonneville Speedmaster,1200
+Triumph,Bonneville T100,900
+Triumph,Bonneville T120,1200
+Triumph,Daytona 660,660
+Triumph,Rocket 3,2458
+Triumph,Rocket 3 GT,2458
+Triumph,Rocket 3 R,2458
+Triumph,Scrambler 400 X,398
+Triumph,Speed 400,398
+Triumph,Speed T4,398
+Triumph,Speed Twin 900,900
+Triumph,Street Scrambler,900
+Triumph,Street Triple 765,765
+Triumph,Street Triple R,765
+Triumph,Street Triple RS,765
+Triumph,Street Twin,900
+Triumph,Thruxton RS,1200
+Triumph,Tiger 1200,1160
+Triumph,Tiger 1200 GT,1160
+Triumph,Tiger 1200 Rally,1160
+Triumph,Tiger 900,888
+Triumph,Tiger 900 GT,888
+Triumph,Tiger 900 Rally,888
+Triumph,Tiger Sport 660,660
+Triumph,Trident 660,660
+Yamaha,Aerox 155,155
+Yamaha,Alba,106
+Yamaha,Alpha,113
+Yamaha,Crux,106
+Yamaha,Enticer,123
+Yamaha,FZ-FI,149
+Yamaha,FZ-X,149
+Yamaha,FZ1,998
+Yamaha,FZ16,153
+Yamaha,FZ25,249
+Yamaha,FZS,153
+Yamaha,FZS-FI,149
+Yamaha,FZS-FI V2.0,149
+Yamaha,FZS-FI V3,149
+Yamaha,FZS-FI V4,149
+Yamaha,Fascino,113
+Yamaha,Fascino 125,125
+Yamaha,Fazer,153
+Yamaha,Fazer 25,249
+Yamaha,Fazer FI V2,149
+Yamaha,Libero,106
+Yamaha,MT-15,155
+Yamaha,MT-15 V2,155
+Yamaha,MT-15 Version 2.0,155
+Yamaha,R1,998
+Yamaha,R15,150
+Yamaha,R15 V2,149
+Yamaha,R15 V3,155
+Yamaha,R15 V4,155
+Yamaha,R15S,155
+Yamaha,R1M,998
+Yamaha,R3,321
+Yamaha,R7,689
+Yamaha,RX100,98
+Yamaha,RX135,132
+Yamaha,RXZ,133
+Yamaha,RXZ 5 Speed,133
+Yamaha,Ray,113
+Yamaha,Ray Z,113
+Yamaha,Ray ZR,113
+Yamaha,RayZR 125,125
+Yamaha,RayZR Street Rally 125,125
+Yamaha,SS 125,123
+Yamaha,SS125,123
+Yamaha,SZ,153
+Yamaha,SZ-R,153
+Yamaha,SZ-RR,149
+Yamaha,Saluto,125
+Yamaha,Saluto RX,110
+Yamaha,Tenere 700,689
+Yamaha,YBX,123
