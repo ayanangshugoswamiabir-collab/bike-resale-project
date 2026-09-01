@@ -22,6 +22,12 @@
 </head>
 
 <body>
+    <!-- 3D UI ambience: presentation only -->
+    <div class="scene-3d" aria-hidden="true">
+        <div class="scene-orb scene-orb-one"></div>
+        <div class="scene-orb scene-orb-two"></div>
+        <div class="scene-grid"></div>
+    </div>
 
     <!-- =====================================================
          TOP NAVIGATION
@@ -106,7 +112,7 @@
          MAIN DASHBOARD
     ====================================================== -->
 
-    <main>
+    <main class="dashboard-3d">
 
 
         <!-- =================================================
@@ -817,6 +823,61 @@
 
     <script>
         lucide.createIcons();
+    </script>
+
+
+    <!-- =====================================================
+         3D TILT INTERACTION
+         Pointer-tracked rotateX/rotateY on the main panels —
+         purely presentational, additive to existing behavior.
+    ====================================================== -->
+
+    <script>
+        (function () {
+            if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+            if (window.matchMedia('(pointer: coarse)').matches) return;
+
+            const scene = document.querySelector('.scene-3d');
+            if (scene) {
+                let sceneFrame = null;
+                window.addEventListener('pointermove', (e) => {
+                    const px = e.clientX / window.innerWidth - 0.5;
+                    const py = e.clientY / window.innerHeight - 0.5;
+                    if (sceneFrame) cancelAnimationFrame(sceneFrame);
+                    sceneFrame = requestAnimationFrame(() => {
+                        scene.style.transform =
+                            'translate3d(' + (px * -22).toFixed(1) + 'px,' +
+                            (py * -14).toFixed(1) + 'px,0)';
+                    });
+                });
+            }
+
+            const panels = document.querySelectorAll(
+                '.prediction-section, .insights-section, .model-section'
+            );
+
+            panels.forEach((panel) => {
+                let frame = null;
+
+                panel.addEventListener('pointermove', (e) => {
+                    const rect = panel.getBoundingClientRect();
+                    const px = (e.clientX - rect.left) / rect.width - 0.5;
+                    const py = (e.clientY - rect.top) / rect.height - 0.5;
+
+                    if (frame) cancelAnimationFrame(frame);
+                    frame = requestAnimationFrame(() => {
+                        panel.style.setProperty('--ry', (px * 3.5).toFixed(2) + 'deg');
+                        panel.style.setProperty('--rx', (py * -3.5).toFixed(2) + 'deg');
+                    });
+                });
+
+                panel.addEventListener('pointerleave', () => {
+                    if (frame) cancelAnimationFrame(frame);
+                    panel.style.setProperty('--rx', '0deg');
+                    panel.style.setProperty('--ry', '0deg');
+                });
+            });
+        })();
     </script>
 
 
